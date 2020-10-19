@@ -16,7 +16,6 @@ initCount()
 
 
 function newNote() {
-    let heading = document.getElementsByClassName(".format");
 
     let newArticle = prompt("Write your note: ");
 
